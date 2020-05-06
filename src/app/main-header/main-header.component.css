@@ -1,0 +1,6 @@
+.row-one,.row-two,.row-three {
+    display: grid;
+    grid-template-columns: 1fr 5fr 2fr;
+    background-color: rgb(224, 224, 224);
+    height: 100%;
+}

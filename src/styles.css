@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-padding { 
+    margin: 12px;
+    border: 1px dashed #a69f9f;
+    
+}
