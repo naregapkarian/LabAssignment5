@@ -27,3 +27,7 @@
     border: 1px dashed #a69f9f;
     
 }
+
+.main-outlet {
+    display: none;
+}

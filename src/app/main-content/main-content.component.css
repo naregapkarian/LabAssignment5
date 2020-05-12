@@ -25,3 +25,7 @@
 .pull-right {
     float:right;
 }
+
+.main-outlet {
+    display: none;
+}

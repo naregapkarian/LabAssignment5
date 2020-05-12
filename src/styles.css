@@ -1,3 +1,5 @@
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+
 * {
     margin: 0px;
     padding: 0px;
@@ -8,9 +10,16 @@ body {
     height: 100vh;
     width: 100vw;
 }
+.row-one,
+.row-two,
+.row-three {
+    display: grid;
+    grid-template-columns: 1fr 5fr 2fr;
+    height: 100%;
+    width: 100%;
+}
 
 .container-padding { 
     margin: 12px;
-    border: 1px dashed #a69f9f;
     
 }
